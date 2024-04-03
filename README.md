@@ -5,6 +5,7 @@ The script utilizes the Telegram Bot API to communicate with users.
 Users can send commands to the bot, such as "SEE PARAMETERS", "STOP BOT", and "START BOT", which control the behavior of the trading bot.
 Binance API Integration:
 
+
 The script connects to the Binance API to fetch real-time market data and execute trades.
 It retrieves account balances, fetches tickers, and creates market orders based on predefined strategies.
 Trading Strategies:
